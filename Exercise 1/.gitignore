@@ -1,0 +1,5 @@
+node_modules/
+.env
+output/*.png
+output/*.html
+!output/.gitkeep
